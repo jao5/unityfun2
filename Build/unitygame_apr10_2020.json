@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "platformer_feb2020",
+"productVersion": "0.1",
+"dataUrl": "unitygame_apr10_2020.data.unityweb",
+"wasmCodeUrl": "unitygame_apr10_2020.wasm.code.unityweb",
+"wasmFrameworkUrl": "unitygame_apr10_2020.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.5f1"
+}
